@@ -2,7 +2,7 @@
 
 # Salut, moi c'est Simon 👋
 
-**Ingénieur logiciel Full-Stack | Futur Data & AI Engineer**
+**Ingénieur logiciel Full-Stack | Futur Data & AI Engineer**  
 Basé à Figeac (Lot) : ouvert à Figeac / Aveyron, à l'agglomération toulousaine, ou en full remote.
 
 Je développe des applications web avec **React, TypeScript, NestJS et Django**, avec une attention particulière portée aux backends propres, à l'authentification et aux tests. Je souhaite maintenant me spécialiser en **ingénierie de la donnée et IA**.
