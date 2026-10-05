@@ -27,12 +27,12 @@ Application web pour planifier et suivre des chantiers : tâches, intervenants, 
 - **Temps réel :** notifications par WebSocket
 - **Tests :** scénarios end-to-end avec Cypress (inscription, connexion, chantiers, tâches, intervenants)
 
-### [ToolShare](https://github.com/R4mTex/[TOOLSHARE_REPO]) : plateforme de prêt d'outils
+### [ToolShare](https://github.com/R4mTex/ToolShare) : plateforme de prêt d'outils
 *Projet de certification finale, OpenClassrooms (2023)*
 
 Plateforme Django de prêt et d'emprunt d'outils entre voisins, avec positionnement sur carte (API de géocodage) et signature manuscrite du contrat. Déployée à l'époque sur DigitalOcean (NGINX, Gunicorn) ; elle n'est plus en ligne.
 
-### [Pur Beurre](https://github.com/R4mTex/[PURBEURRE_REPO]) : application de substitution alimentaire
+### [Pur Beurre](https://github.com/R4mTex/Pur-Beurre) : application de substitution alimentaire
 *Projet OpenClassrooms (2022)*
 
 Application Django qui propose des alternatives plus saines à un produit. Elle inclut un **script ETL en Python** qui récupère et nettoie les données de produits de l'API [Open Food Facts](https://world.openfoodfacts.org/) vers PostgreSQL.
