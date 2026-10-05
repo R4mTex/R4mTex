@@ -9,7 +9,7 @@ Je développe des applications web avec **React, TypeScript, NestJS et Django**,
 
 ## 🎯 Ce que je recherche
 
-Une **alternance de 24 mois** en Data / IA, en parallèle de la certification professionnelle de niveau 7 de l'ISCOD (RNCP40167, Bac+5).
+Une **alternance de 24 mois** en Data / IA, en parallèle de la certification professionnelle de niveau 7 de l'ISCOD (RNCP40167, Bac+5).  
 Rythme : 4 jours en entreprise / 1 jour de formation.
 
 📫 [poutots@gmail.com](mailto:poutots@gmail.com) · [LinkedIn](https://www.linkedin.com/in/simon-poutot)
