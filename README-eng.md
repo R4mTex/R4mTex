@@ -27,12 +27,12 @@ Web app to plan and follow construction worksites: tasks, contractors, incidents
 - **Real-time:** WebSocket notifications
 - **Tests:** Cypress end-to-end scenarios (sign-up, sign-in, worksites, tasks, contractors)
 
-### [ToolShare](https://github.com/R4mTex/[TOOLSHARE_REPO]): tool-sharing platform
+### [ToolShare](https://github.com/R4mTex/ToolShare): tool-sharing platform
 *Final certification project, OpenClassrooms (2023)*
 
 Django platform to lend and borrow tools between neighbours, with map-based positioning (geocoding API) and a drawn-signature contract flow. Deployed at the time on DigitalOcean (NGINX, Gunicorn); no longer online.
 
-### [Pur Beurre](https://github.com/R4mTex/[PURBEURRE_REPO]): food substitution app
+### [Pur Beurre](https://github.com/R4mTex/Pur-Beurre): food substitution app
 *OpenClassrooms project (2022)*
 
 Django app that suggests healthier alternatives to a product. It includes a **Python ETL script** that ingests and cleans product data from the [Open Food Facts](https://world.openfoodfacts.org/) API into PostgreSQL.
