@@ -2,14 +2,14 @@
 
 # Salut, moi c'est Simon 👋
 
-**Ingénieur logiciel Full-Stack | Futur Data & AI Engineer**
+**Ingénieur logiciel Full-Stack | Futur Data & AI Engineer**  
 Basé à Figeac (Lot) : ouvert à Figeac / Aveyron, à l'agglomération toulousaine, ou en full remote.
 
 Je développe des applications web avec **React, TypeScript, NestJS et Django**, avec une attention particulière portée aux backends propres, à l'authentification et aux tests. Je souhaite maintenant me spécialiser en **ingénierie de la donnée et IA**.
 
 ## 🎯 Ce que je recherche
 
-Une **alternance de 24 mois** en Data / IA, en parallèle de la certification professionnelle de niveau 7 de l'ISCOD (RNCP40167, Bac+5).
+Une **alternance de 24 mois** en Data / IA, en parallèle de la certification professionnelle de niveau 7 de l'ISCOD (RNCP40167, Bac+5).  
 Rythme : 4 jours en entreprise / 1 jour de formation.
 
 📫 [poutots@gmail.com](mailto:poutots@gmail.com) · [LinkedIn](https://www.linkedin.com/in/simon-poutot)
@@ -39,11 +39,11 @@ Application Django qui propose des alternatives plus saines à un produit. Elle 
 
 ## 🧰 Technologies
 
-**Langages :** TypeScript · JavaScript · Python
-**Frontend :** React · Zustand · Tailwind CSS
-**Backend :** NestJS · Django · API REST · JWT
-**Données :** PostgreSQL · MySQL · Redis · Prisma · DigDash (tableaux de bord BI)
-**Outils :** Docker · Git (GitHub, GitLab) · Cypress · Pytest · Jest · Agile (Scrum)
+- **Langages :** TypeScript · JavaScript · Python
+- **Frontend :** React · Zustand · Tailwind CSS
+- **Backend :** NestJS · Django · API REST · JWT
+- **Données :** PostgreSQL · MySQL · Redis · Prisma · DigDash (tableaux de bord BI)
+- **Outils :** Docker · Git (GitHub, GitLab) · Cypress · Pytest · Jest · Agile (Scrum)
 
 ## 📈 Parcours
 
