@@ -39,11 +39,11 @@ Application Django qui propose des alternatives plus saines à un produit. Elle 
 
 ## 🧰 Technologies
 
-**Langages :** TypeScript · JavaScript · Python
-**Frontend :** React · Zustand · Tailwind CSS
-**Backend :** NestJS · Django · API REST · JWT
-**Données :** PostgreSQL · MySQL · Redis · Prisma · DigDash (tableaux de bord BI)
-**Outils :** Docker · Git (GitHub, GitLab) · Cypress · Pytest · Jest · Agile (Scrum)
+- **Langages :** TypeScript · JavaScript · Python
+- **Frontend :** React · Zustand · Tailwind CSS
+- **Backend :** NestJS · Django · API REST · JWT
+- **Données :** PostgreSQL · MySQL · Redis · Prisma · DigDash (tableaux de bord BI)
+- **Outils :** Docker · Git (GitHub, GitLab) · Cypress · Pytest · Jest · Agile (Scrum)
 
 ## 📈 Parcours
 
